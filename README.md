@@ -203,9 +203,7 @@ Basta abrir o link, clicar em ▶ (play) para iniciar a simulação e usar o Mon
 
 ## 9. 🎥 Vídeo Demonstrativo (Sprint 4)
 
-> ⚠️ **A preencher pelo grupo:** inserir aqui o link do vídeo técnico de até 5 minutos (YouTube, modo "não listado") mostrando a solução funcionando, os diferenciais da Seção 3 e a justificativa de cada tecnologia escolhida.
-
-`[LINK DO VÍDEO AQUI]`
+https://youtu.be/Vk162ftpYhU`
 
 ---
 
