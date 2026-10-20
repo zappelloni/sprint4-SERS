@@ -209,6 +209,4 @@ https://youtu.be/Vk162ftpYhU`
 
 ## 10. 🔗 Repositório
 
-> ⚠️ **A preencher pelo grupo:** confirmar/atualizar o link definitivo do repositório consolidado desta sprint.
-
-`[LINK DO REPOSITÓRIO AQUI]`
+https://github.com/zappelloni/sprint4-SERS`
