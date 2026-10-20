@@ -203,10 +203,10 @@ Basta abrir o link, clicar em ▶ (play) para iniciar a simulação e usar o Mon
 
 ## 9. 🎥 Vídeo Demonstrativo (Sprint 4)
 
-https://youtu.be/Vk162ftpYhU`
+https://youtu.be/Vk162ftpYhU
 
 ---
 
 ## 10. 🔗 Repositório
 
-https://github.com/zappelloni/sprint4-SERS`
+https://github.com/zappelloni/sprint4-SERS
